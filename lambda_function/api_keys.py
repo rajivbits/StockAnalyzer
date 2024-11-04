@@ -1,0 +1,2 @@
+anthropic = "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"
+groq_key = "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"

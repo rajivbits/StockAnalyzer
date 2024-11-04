@@ -1,0 +1,6 @@
+requests==2.26.0
+pandas==2.2.3
+python-dateutil==2.8.2
+nsetools==1.0.5
+nsepython==0.0.968
+groq==0.11.0
